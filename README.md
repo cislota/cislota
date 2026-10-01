@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Full-stack разработчик с фокусом на Python и FastAPI</strong><br>
+  <strong>Full-stack разработчик на Python и FastAPI</strong><br>
   Создаю веб-приложения, REST API и сервисы для обработки данных
 </p>
 
