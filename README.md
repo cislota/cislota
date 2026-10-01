@@ -1,5 +1,3 @@
-<h1 align="center">Привет</h1>
-
 <p align="center">
   <strong>Full-stack разработчик с фокусом на Python и FastAPI</strong><br>
   Создаю веб-приложения, REST API и сервисы для обработки данных
