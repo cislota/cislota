@@ -34,8 +34,23 @@
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,linux&amp;theme=dark" alt="Docker, Nginx, Git, Linux">
 </p>
 
-## Опыт и результаты
+## Интересы
 
-- Переносил проекты с Tilda на собственную архитектуру: frontend, backend API, административная панель и PostgreSQL.
-- Участвовал в создании системы локального позиционирования на STM32 и UWB с точностью до **10 см**.
-- Администрировал системы мониторинга более чем **500 транспортных средств**.
+- AI-агенты и автоматизация разработки
+- Backend-архитектура и интеграции
+- Embedded-системы
+- Локальное позиционирование и обработка данных
+
+## Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=cislota&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru" alt="Статистика GitHub">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cislota/cislota/refs/heads/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cislota/cislota/refs/heads/output/github-contribution-grid-snake.svg">
+    <img alt="Анимация активности GitHub" src="https://raw.githubusercontent.com/cislota/cislota/refs/heads/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
